@@ -8,7 +8,7 @@ Each puzzle is randomly generated, offering a unique challenge every time.
 
 ## 🎮 Demo
 
-👉 **[Play Live](#rakeshid03.github.io/ARROWPATHPUZZLE/)** (Add your GitHub Pages or Netlify link here once deployed)
+👉 **[Play Live](#)** (https://rakeshid03.github.io/ARROWPATHPUZZLE/)
 
 ---
 
