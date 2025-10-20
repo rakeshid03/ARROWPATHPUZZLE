@@ -74,4 +74,6 @@ Optimized for both mobile and desktop play.
 
 ---
 
-## 📂 Project Structure
+## Contributing
+
+Welcome contributions from the open-source community to help make this project even better. Feel free to fork this project to suggest new features, improve the UI/UX, remove bugs. Pull requests are welcome!
